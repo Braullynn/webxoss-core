@@ -5,7 +5,7 @@
 1. Clone this project
 
   ```
-  git clone https://github.com/webxoss/webxoss-core.git --recurse-submodules
+  git clone https://github.com/Braullynn/webxoss-core.git --recurse-submodules
   ```
 
 2. Init / Update submodule
