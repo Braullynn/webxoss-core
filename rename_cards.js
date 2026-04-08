@@ -2,8 +2,8 @@ const fs = require('fs');
 const path = require('path');
 
 // Caminhos baseados no projeto
-const imagesDir = path.join(__dirname, 'webxoss-core', 'webxoss-client', 'images');
-const cardInfoPath = path.join(__dirname, 'webxoss-core', 'webxoss-client', 'lang', 'CardInfo_en.json');
+const imagesDir = path.join(__dirname, 'webxoss-client', 'images');
+const cardInfoPath = path.join(__dirname, 'webxoss-client', 'lang', 'CardInfo_en.json');
 
 function renameCards() {
     console.log('Iniciando processo de renomeação...');
