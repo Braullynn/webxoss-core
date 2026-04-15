@@ -1,3 +1,6 @@
 [submodule "webxoss-client"]
 	path = webxoss-client
 	url = https://github.com/Braullynn/webxoss-client.git
+[submodule "ml-training"]
+	path = ml-training
+	url = https://github.com/Braullynn/wixoss-ai
